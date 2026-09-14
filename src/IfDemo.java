@@ -6,7 +6,6 @@ public class IfDemo {
             System.out.println("Anda LULUS");
         } else {
             System.out.println("Anda Tidak LULUS");
-
         }
     }
 }
